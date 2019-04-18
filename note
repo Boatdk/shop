@@ -7,3 +7,955 @@
 9006
 9029 IMAGE 1st div
 9146 MESSAGE 1st div
+9561 FREE SHIPPING
+9779 YEAR ROUND
+
+contact
+8862 CONTENT MIDDLE
+
+<div id="cee5inlineContent" class="p2inlineContent">
+  <style id="cee5-mesh-styles">
+    #cee5inlineContent {
+      height: auto;
+      width: 100%;
+      position: relative;
+    }
+
+    #cee5inlineContent-gridWrapper {
+      pointer-events: none;
+    }
+
+    #cee5inlineContent-gridContainer {
+      position: static;
+      display: grid;
+      height: auto;
+      width: 100%;
+      min-height: 500px;
+      grid-template-rows: min-content min-content min-content 1fr;
+      grid-template-columns: 100%;
+      padding-bottom: 0px;
+      box-sizing: border-box;
+    }
+
+    #i21wsct5 {
+      position: relative;
+      margin: 1px 0px 58px calc((100% - 980px) * 0.5);
+      left: 18px;
+      grid-area: 1 / 1 / 2 / 2;
+      justify-self: start;
+      align-self: start;
+    }
+
+    #i21wpcxq {
+      position: relative;
+      margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+      left: 18px;
+      grid-area: 2 / 1 / 3 / 2;
+      justify-self: start;
+      align-self: start;
+    }
+
+    #i21ygrn3 {
+      position: relative;
+      margin: 0px 0px 19px calc((100% - 980px) * 0.5);
+      left: 633px;
+      grid-area: 1 / 1 / 4 / 2;
+      justify-self: start;
+      align-self: start;
+    }
+
+    #comp-ja27k57b {
+      position: relative;
+      margin: 0px 0px 0 calc((100% - 980px) * 0.5);
+      left: 34px;
+      grid-area: 4 / 1 / 5 / 2;
+      justify-self: start;
+      align-self: start;
+    }
+
+    #cee5centeredContent {
+      position: relative;
+    }
+
+    #cee5inlineContent-gridContainer>* {
+      pointer-events: initial;
+    }
+
+    #cee5inlineContent-gridContainer>[id$="-rotated-wrapper"] {
+      pointer-events: none;
+    }
+
+    #cee5inlineContent-gridContainer>[id$="-rotated-wrapper"]>* {
+      pointer-events: initial;
+    }
+  </style>
+  <div id="cee5inlineContent-gridWrapper" data-mesh-internal="true">
+    <div id="cee5inlineContent-gridContainer" data-mesh-internal="true">
+      <div class="c1" id="i21wsct5">
+        <div id="i21wsct5bg" class="c1bg"></div>
+        <div id="i21wsct5inlineContent" class="c1inlineContent">
+          <style id="i21wsct5-mesh-styles">
+            #i21wsct5inlineContent {
+              height: auto;
+              width: 600px;
+              position: relative;
+            }
+
+            #i21wsct5inlineContent-gridWrapper {
+              pointer-events: none;
+            }
+
+            #i21wsct5inlineContent-gridContainer {
+              position: static;
+              display: grid;
+              height: auto;
+              width: 100%;
+              min-height: auto;
+              grid-template-rows: 1fr;
+              grid-template-columns: 100%;
+            }
+
+            #i21vsyxd {
+              position: relative;
+              margin: 48px 0px 50px 0;
+              left: 43px;
+              grid-area: 1 / 1 / 2 / 2;
+              justify-self: start;
+              align-self: start;
+            }
+
+            #i21wsct5centeredContent {
+              position: relative;
+            }
+
+            #i21wsct5inlineContent-gridContainer>* {
+              pointer-events: initial;
+            }
+
+            #i21wsct5inlineContent-gridContainer>[id$="-rotated-wrapper"] {
+              pointer-events: none;
+            }
+
+            #i21wsct5inlineContent-gridContainer>[id$="-rotated-wrapper"]>* {
+              pointer-events: initial;
+            }
+          </style>
+          <div id="i21wsct5inlineContent-gridWrapper" data-mesh-internal="true">
+            <div id="i21wsct5inlineContent-gridContainer" data-mesh-internal="true">
+              <div data-packed="true" class="txtNew" id="i21vsyxd" style="width: 511px; pointer-events: none;">
+                <h2 style="text-align:center;" class="font_2"><span style="letter-spacing:0.2em;">ABOUT
+                    US</span></h2>
+
+                <p class="font_7">&nbsp;</p>
+
+                <p style="line-height:1.5em; text-align:center;" class="font_7"><span style="letter-spacing:0.2em;"><span style="line-height:1.5em;">We’re a couple of
+                      passionate soles, dedicated to carrying the most exclusive designers and
+                      showcasing the latest trends</span></span></p>
+              </div>
+              <style type="text/css" data-styleid="txtNew">
+                .txtNew {
+                  word-wrap: break-word;
+                  text-align: start;
+                }
+
+                .txtNew_override-left * {
+                  text-align: left !important;
+                }
+
+                .txtNew_override-right * {
+                  text-align: right !important;
+                }
+
+                .txtNew_override-center * {
+                  text-align: center !important;
+                }
+
+                .txtNew_override-justify * {
+                  text-align: justify !important;
+                }
+
+                .txtNew>* {
+                  pointer-events: auto;
+                }
+
+                .txtNew li {
+                  font-style: inherit;
+                  font-weight: inherit;
+                  line-height: inherit;
+                  letter-spacing: normal;
+                }
+
+                .txtNew ol,
+                .txtNew ul {
+                  padding-left: 1.3em;
+                  padding-right: 0;
+                  margin-left: 0.5em;
+                  margin-right: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew ul {
+                  list-style-type: disc;
+                }
+
+                .txtNew ol {
+                  list-style-type: decimal;
+                }
+
+                .txtNew ul ul,
+                .txtNew ol ul {
+                  list-style-type: circle;
+                }
+
+                .txtNew ul ul ul,
+                .txtNew ol ul ul {
+                  list-style-type: square;
+                }
+
+                .txtNew ul ol ul,
+                .txtNew ol ol ul {
+                  list-style-type: square;
+                }
+
+                .txtNew ul[dir="rtl"],
+                .txtNew ol[dir="rtl"] {
+                  padding-left: 0;
+                  padding-right: 1.3em;
+                  margin-left: 0;
+                  margin-right: 0.5em;
+                }
+
+                .txtNew ul[dir="rtl"] ul,
+                .txtNew ul[dir="rtl"] ol,
+                .txtNew ol[dir="rtl"] ul,
+                .txtNew ol[dir="rtl"] ol {
+                  padding-left: 0;
+                  padding-right: 1.3em;
+                  margin-left: 0;
+                  margin-right: 0.5em;
+                }
+
+                .txtNew p {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew h1 {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew h2 {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew h3 {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew h4 {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew h5 {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew h6 {
+                  margin: 0;
+                  line-height: normal;
+                  letter-spacing: normal;
+                }
+
+                .txtNew a {
+                  color: inherit;
+                }
+              </style>
+            </div>
+          </div>
+        </div>
+      </div>
+      <style type="text/css" data-styleid="c1">
+        .c1bg {
+          border: 0px solid rgba(21, 21, 21, 1);
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+          background-color: rgba(242, 219, 197, 1);
+          border-radius: 0;
+        }
+
+        .c1bg:after {
+          position: absolute;
+          top: 6px;
+          right: 6px;
+          bottom: 6px;
+          left: 6px;
+          content: "";
+          border-radius: 0;
+          border: 2px solid rgba(21, 21, 21, 1);
+          background-color: rgba(242, 219, 197, 1);
+        }
+
+        .c1inlineContent {
+          position: absolute;
+          top: 0;
+          right: 0;
+          bottom: 0;
+          left: 0;
+        }
+      </style>
+      <div data-packed="true" class="txtNew" id="i21wpcxq" style="width: 554px; pointer-events: none;">
+        <p style="line-height:1.4em;" class="font_8"><span style="line-height:1.4em;"><span style="letter-spacing:0.1em;">I'm a paragraph. Click here to add your own text and edit me.
+              It’s easy. Just click “Edit Text” or double click me to add your own content and make
+              changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a
+              great place for you to tell a story and let your users know a little more about
+              you.</span></span></p>
+
+        <p style="line-height:1.4em;" class="font_8"><span style="line-height:1.4em;"><span style="letter-spacing:0.1em;">​</span></span></p>
+
+        <p style="line-height:1.4em;" class="font_8"><span style="line-height:1.4em;"><span style="letter-spacing:0.1em;">This is a great space to write long text about your company
+              and your services.</span></span></p>
+      </div>
+      <style type="text/css" data-styleid="txtNew">
+        .txtNew {
+          word-wrap: break-word;
+          text-align: start;
+        }
+
+        .txtNew_override-left * {
+          text-align: left !important;
+        }
+
+        .txtNew_override-right * {
+          text-align: right !important;
+        }
+
+        .txtNew_override-center * {
+          text-align: center !important;
+        }
+
+        .txtNew_override-justify * {
+          text-align: justify !important;
+        }
+
+        .txtNew>* {
+          pointer-events: auto;
+        }
+
+        .txtNew li {
+          font-style: inherit;
+          font-weight: inherit;
+          line-height: inherit;
+          letter-spacing: normal;
+        }
+
+        .txtNew ol,
+        .txtNew ul {
+          padding-left: 1.3em;
+          padding-right: 0;
+          margin-left: 0.5em;
+          margin-right: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew ul {
+          list-style-type: disc;
+        }
+
+        .txtNew ol {
+          list-style-type: decimal;
+        }
+
+        .txtNew ul ul,
+        .txtNew ol ul {
+          list-style-type: circle;
+        }
+
+        .txtNew ul ul ul,
+        .txtNew ol ul ul {
+          list-style-type: square;
+        }
+
+        .txtNew ul ol ul,
+        .txtNew ol ol ul {
+          list-style-type: square;
+        }
+
+        .txtNew ul[dir="rtl"],
+        .txtNew ol[dir="rtl"] {
+          padding-left: 0;
+          padding-right: 1.3em;
+          margin-left: 0;
+          margin-right: 0.5em;
+        }
+
+        .txtNew ul[dir="rtl"] ul,
+        .txtNew ul[dir="rtl"] ol,
+        .txtNew ol[dir="rtl"] ul,
+        .txtNew ol[dir="rtl"] ol {
+          padding-left: 0;
+          padding-right: 1.3em;
+          margin-left: 0;
+          margin-right: 0.5em;
+        }
+
+        .txtNew p {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew h1 {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew h2 {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew h3 {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew h4 {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew h5 {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew h6 {
+          margin: 0;
+          line-height: normal;
+          letter-spacing: normal;
+        }
+
+        .txtNew a {
+          color: inherit;
+        }
+      </style>
+      <div data-exact-height="500" data-content-padding-horizontal="0" data-content-padding-vertical="0" data-display-mode="fill" title="" class="wp2" id="i21ygrn3" style="width: 330px; height: 500px;">
+        <div id="i21ygrn3link" class="wp2link" style="width: 330px; height: 500px;">
+          <div data-style="" class="wp2img" id="i21ygrn3img" style="position: relative; width: 330px; height: 500px;">
+            <img id="i21ygrn3imgimage" alt="" data-type="image" itemprop="image" src="https://static.wixstatic.com/media/ca2a5a_a36b3b6ad001469ca499f68acf8862e8.jpg/v1/fill/w_330,h_500,al_c,q_80,usm_0.66_1.00_0.01/ca2a5a_a36b3b6ad001469ca499f68acf8862e8.webp" style="width: 330px; height: 500px; object-fit: cover;"></div>
+        </div>
+      </div>
+      <style type="text/css" data-styleid="wp2">
+        .wp2_zoomedin {
+          cursor: url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_out.png), url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_out.cur), auto;
+          overflow: hidden;
+          display: block;
+        }
+
+        .wp2_zoomedout {
+          cursor: url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_in.png), url(https://static.parastorage.com/services/skins/2.1229.80/images/wysiwyg/core/themes/base/cursor_zoom_in.cur), auto;
+        }
+
+        .wp2link {
+          display: block;
+          overflow: hidden;
+        }
+
+        .wp2img {
+          overflow: hidden;
+        }
+
+        .wp2imgimage {
+          position: static;
+          box-shadow: #000 0 0 0;
+          user-select: none;
+        }
+      </style>
+      <div class="style-ja28e3gu" id="comp-ja27k57b" style="width: 921px;">
+        <div class="comp-ja27k57b">
+          <link href="https://static.parastorage.com/services/pro-gallery-santa-wrapper/1.288.0/viewer.css" rel="stylesheet" type="text/css">
+          <style>
+            .comp-ja27k57b div.pro-gallery-parent-container .gallery-item-wrapper-text .gallery-item-content {
+              background-color: #151515
+            }
+
+            .comp-ja27k57b div.pro-gallery-parent-container .show-more-container i.show-more {
+              color: rgba(0, 0, 0, 0.7)
+            }
+
+            .comp-ja27k57b div.pro-gallery-parent-container .show-more-container button.show-more {
+              --loadMoreButtonBorderRadius: 0;
+              --loadMoreButtonBorderColor: #151515;
+              --loadMoreButtonBorderWidth: 1;
+              --loadMoreButtonColor: #FFFFFF;
+              --loadMoreButtonFont: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --loadMoreButtonFontColor: #151515;
+              color: rgba(21, 21, 21, 0.9);
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration: ;
+              background: rgb(255, 255, 255);
+              border: 1px solid rgb(21, 21, 21);
+              border-radius: 0px
+            }
+
+            .comp-ja27k57b div.pro-gallery-parent-container .show-more-container.pro-gallery-mobile-indicator i.show-more {
+              color: rgba(0, 0, 0, 0.7)
+            }
+
+            .comp-ja27k57b div.pro-gallery-parent-container .show-more-container.pro-gallery-mobile-indicator button.show-more {
+              --loadMoreButtonBorderRadius: 0;
+              --loadMoreButtonBorderColor: #151515;
+              --loadMoreButtonBorderWidth: 1;
+              --loadMoreButtonColor: #FFFFFF;
+              --loadMoreButtonFont: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --loadMoreButtonFontColor: #151515;
+              color: rgba(0, 0, 0, 0.9);
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration: ;
+              background: rgb(255, 255, 255);
+              border: undefinedpx solid rgb(21, 21, 21);
+              border-radius: undefinedpx
+            }
+
+            .comp-ja27k57b .nav-arrows-container .slideshow-arrow {
+              --arrowsColor: #FFFFFF;
+              fill: rgb(255, 255, 255)
+            }
+
+            .comp-ja27k57b .nav-arrows-container.pro-gallery-mobile-indicator .slideshow-arrow {
+              --arrowsColor: #FFFFFF;
+              fill: rgb(255, 255, 255)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item.load-with-color {
+              --imageLoadingColor: #FFFFFF;
+              background-color: rgb(164, 162, 162)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item.gallery-item-video i.gallery-item-video-play-triangle {
+              --itemFontColor: #FFFFFF;
+              color: rgb(21, 21, 21)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item.gallery-item-video i.gallery-item-video-play-background {
+              --itemOpacity: #151515;
+              color: rgba(255, 255, 255, 0.6)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover svg .gallery-item-svg-background,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info svg .gallery-item-svg-background {
+              --itemOpacity: #151515;
+              fill: rgba(255, 255, 255, 0.6)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover .gradient-top,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info .gradient-top {
+              --itemOpacity: #151515;
+              background: linear-gradient(rgba(255, 255, 255, 0.6), transparent 140px) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info {
+              --itemIconColorSlideshow: #151515
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info a,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info button:not(.pro-gallery-loved),
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info i:not(.pro-gallery-loved) {
+              color: rgb(21, 21, 21) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info svg .gallery-item-svg-foreground {
+              fill: rgb(21, 21, 21) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info .gallery-item-title {
+              --itemFontSlideshow: normal normal normal 35px/1.4em raleway, sans-serif;
+              --itemFontColorSlideshow: #151515;
+              color: rgb(21, 21, 21) !important;
+              font: normal normal normal 35px/1.4em raleway, sans-serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-info .gallery-item-description {
+              --itemDescriptionFontSlideshow: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --itemDescriptionFontColorSlideshow: #151515;
+              color: rgb(21, 21, 21) !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover {
+              --itemIconColor: #FFFFFF
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover a,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover button:not(.pro-gallery-loved),
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover i:not(.pro-gallery-loved) {
+              color: rgb(255, 255, 255) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover svg .gallery-item-svg-foreground {
+              fill: rgb(255, 255, 255) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover .gallery-item-title {
+              --itemFont: normal normal normal 35px/1.4em raleway, sans-serif;
+              --itemFontColor: #FFFFFF;
+              color: rgb(21, 21, 21);
+              font: italic normal normal 30px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover .gallery-item-description {
+              --itemDescriptionFont: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --itemDescriptionFontColor: #FFFFFF;
+              color: rgb(21, 21, 21) !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover .custom-button-wrapper {
+              --customButtonFontColor: #151515;
+              color: #151515 !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-wrapper .gallery-item-hover .custom-button-wrapper button {
+              --customButtonBorderRadius: 0;
+              --customButtonBorderWidth: 1;
+              --customButtonBorderColor: #FFFFFF;
+              --customButtonFont: italic normal normal 15px/1.4em "times new roman", times, serif;
+              color: #151515 !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration: ;
+              background:  !important;
+              border-radius: 0px;
+              border: 1px solid #FFFFFF
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-hover.hovered:before,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container:hover .gallery-item-hover:not(.hide-hover):before {
+              --itemOpacity: #151515;
+              background: rgba(255, 255, 255, 0.6) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-hover.default.hovered:before,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container:hover .gallery-item-hover.default:not(.hide-hover):before {
+              background: #151515 !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-bottom-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-info.gallery-item-bottom-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-info.gallery-item-top-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-top-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-slideshow .gallery-item-title {
+              --itemFontSlideshow: normal normal normal 22px/1.4em raleway, sans-serif;
+              --itemFontColorSlideshow: #151515;
+              color: rgb(21, 21, 21) !important;
+              font: normal normal normal 35px/1.4em raleway, sans-serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-bottom-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-info.gallery-item-bottom-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-info.gallery-item-top-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-top-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-slideshow .gallery-item-description {
+              --itemDescriptionFontColorSlideshow: #151515;
+              --itemDescriptionFontSlideshow: italic normal normal 15px/1.4em "times new roman", times, serif;
+              color: rgb(21, 21, 21) !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-bottom-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-info.gallery-item-bottom-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-info.gallery-item-top-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-item-top-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container .gallery-slideshow .custom-button-wrapper button {
+              --customButtonFontForHover: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --customButtonFontColorForHover: #151515;
+              color: #151515 !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item.load-with-color {
+              --imageLoadingColor: #FFFFFF;
+              background-color: rgb(164, 162, 162)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item.gallery-item-video i.gallery-item-video-play-triangle {
+              --itemFontColor: #FFFFFF;
+              color: rgb(21, 21, 21)
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item.gallery-item-video i.gallery-item-video-play-background {
+              --itemOpacity: #151515;
+              color: rgba(255, 255, 255, 0.6) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover svg .gallery-item-svg-background,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info svg .gallery-item-svg-background {
+              --itemOpacity: #151515;
+              fill: rgba(255, 255, 255, 0.6) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover .gradient-top,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info .gradient-top {
+              --itemOpacity: #151515;
+              background: linear-gradient(rgba(255, 255, 255, 0.6), transparent 140px) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info {
+              --itemIconColorSlideshow: #151515
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info a,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info button:not(.pro-gallery-loved),
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info i:not(.pro-gallery-loved) {
+              color: rgb(21, 21, 21) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info svg .gallery-item-svg-foreground {
+              fill: rgb(21, 21, 21) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info .gallery-item-title {
+              --itemFontSlideshow: normal normal normal 35px/1.4em raleway, sans-serif;
+              --itemFontColorSlideshow: #151515;
+              color: rgb(21, 21, 21) !important;
+              font: normal normal normal 35px/1.4em raleway, sans-serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-info .gallery-item-description {
+              --itemDescriptionFontSlideshow: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --itemDescriptionFontColorSlideshow: #151515;
+              color: rgb(21, 21, 21) !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover {
+              --itemIconColor: #FFFFFF
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover a,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover button:not(.pro-gallery-loved),
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover i:not(.pro-gallery-loved) {
+              color: rgb(255, 255, 255) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover svg .gallery-item-svg-foreground {
+              fill: rgb(255, 255, 255) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover .gallery-item-title {
+              --itemFont: normal normal normal 35px/1.4em raleway, sans-serif;
+              --itemFontColor: #FFFFFF;
+              color: rgb(21, 21, 21);
+              font: italic normal normal 30px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover .gallery-item-description {
+              --itemDescriptionFont: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --itemDescriptionFontColor: #FFFFFF;
+              color: rgb(21, 21, 21) !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover .custom-button-wrapper {
+              --customButtonFontColor: #151515;
+              color: #151515 !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-wrapper .gallery-item-hover .custom-button-wrapper button {
+              --customButtonBorderRadius: 0;
+              --customButtonBorderWidth: 1;
+              --customButtonBorderColor: #FFFFFF;
+              --customButtonFont: italic normal normal 15px/1.4em "times new roman", times, serif;
+              color: #151515 !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration: ;
+              background:  !important;
+              border-radius: 0px;
+              border: 1px solid #FFFFFF
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-hover.hovered:before,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator:hover .gallery-item-hover:not(.hide-hover):before {
+              --itemOpacity: #151515;
+              background: rgba(255, 255, 255, 0.6) !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-hover.default.hovered:before,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator:hover .gallery-item-hover.default:not(.hide-hover):before {
+              background: #151515 !important
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-bottom-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-info.gallery-item-bottom-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-info.gallery-item-top-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-top-info .gallery-item-title,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-slideshow .gallery-item-title {
+              --itemFontSlideshow: normal normal normal 22px/1.4em raleway, sans-serif;
+              --itemFontColorSlideshow: #151515;
+              color: rgb(21, 21, 21) !important;
+              font: normal normal normal 35px/1.4em raleway, sans-serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-bottom-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-info.gallery-item-bottom-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-info.gallery-item-top-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-top-info .gallery-item-description,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-slideshow .gallery-item-description {
+              --itemDescriptionFontColorSlideshow: #151515;
+              --itemDescriptionFontSlideshow: italic normal normal 15px/1.4em "times new roman", times, serif;
+              color: rgb(21, 21, 21) !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-bottom-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-info.gallery-item-bottom-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-info.gallery-item-top-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-item-top-info .custom-button-wrapper button,
+            .comp-ja27k57b .pro-gallery.inline-styles .gallery-item-container.pro-gallery-mobile-indicator .gallery-slideshow .custom-button-wrapper button {
+              --customButtonFontForHover: italic normal normal 15px/1.4em "times new roman", times, serif;
+              --customButtonFontColorForHover: #151515;
+              color: #151515 !important;
+              font: italic normal normal 15px/1.4em "times new roman", times, serif;
+              text-decoration:
+            }
+
+            .comp-ja27k57b .te-pro-gallery-text-item {
+              font: italic normal normal 14px/1.4em "times new roman", times, serif;
+              color: #FFFFFF
+            }
+          </style>
+          <div data-key="gallery-wrapper-comp-ja27k57b">
+            <div id="pro-gallery-comp-ja27k57b" class="pro-gallery">
+              <div data-key="pro-gallery-inner-container">
+                <div data-hook="css-scroll-indicator" data-scroll-base="722" data-scroll-top="0" class="pgscl--722 pgscl_ja27k57b_-10240-0 pgscl_ja27k57b_-5120-0 pgscl_ja27k57b_-2560-0 pgscl_ja27k57b_-1280-0 pgscl_ja27k57b_-1280--640 pgscl_ja27k57b_-960--640 pgscl_ja27k57b_-800--640 pgscl_ja27k57b_-800--720 pgscl_ja27k57b_-760--720 pgscl_ja27k57b_-740--720 pgscl_ja27k57b_-730--720" style="display: none;"></div>
+                <div class="pro-gallery-parent-container">
+                  <div id="pro-gallery-container" class="pro-gallery inline-styles " style="overflow-x: hidden;"></div>
+                </div>
+                <style data-key="scrollCss"></style>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <style type="text/css" data-styleid="style-ja28e3gu">
+        .style-ja28e3gu {
+          overflow: hidden;
+        }
+
+        .style-ja28e3gu iframe {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          overflow: hidden;
+        }
+
+        .style-ja28e3gupreloaderOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          color: #373737;
+          width: 100%;
+          height: 100%;
+        }
+
+        .style-ja28e3gupreloaderOverlaycontent {
+          width: 100%;
+          height: 100%;
+        }
+
+        .style-ja28e3guunavailableMessageOverlay {
+          position: absolute;
+          top: 0;
+          left: 0;
+          color: #373737;
+          width: 100%;
+          height: 100%;
+        }
+
+        .style-ja28e3guunavailableMessageOverlaycontent {
+          width: 100%;
+          height: 100%;
+          background: rgba(255, 255, 255, 0.9);
+          font-size: 0;
+          margin-top: 5px;
+        }
+
+        .style-ja28e3guunavailableMessageOverlaytextContainer {
+          color: #373737;
+          font-family: "Helvetica Neue", "HelveticaNeueW01-55Roma", "HelveticaNeueW02-55Roma", "HelveticaNeueW10-55Roma", Helvetica, Arial, sans-serif;
+          font-size: 14px;
+          display: inline-block;
+          vertical-align: middle;
+          width: 100%;
+          margin-top: 10px;
+          text-align: center;
+        }
+
+        .style-ja28e3guunavailableMessageOverlayreloadButton {
+          display: inline-block;
+        }
+
+        .style-ja28e3guunavailableMessageOverlay a {
+          color: #0099FF;
+          text-decoration: underline;
+          cursor: pointer;
+        }
+
+        .style-ja28e3guunavailableMessageOverlayiconContainer {
+          display: none;
+        }
+
+        .style-ja28e3guunavailableMessageOverlaydismissButton {
+          display: none;
+        }
+
+        .style-ja28e3guunavailableMessageOverlaytextTitle {
+          font-family: "Helvetica Neue", "HelveticaNeueW01-55Roma", "HelveticaNeueW02-55Roma", "HelveticaNeueW10-55Roma", Helvetica, Arial, sans-serif;
+          display: none;
+        }
+
+        .style-ja28e3guunavailableMessageOverlay[data-state~="hideIframe"] .style-ja28e3guunavailableMessageOverlay_buttons {
+          opacity: 1;
+        }
+
+        .style-ja28e3guunavailableMessageOverlay[data-state~="hideOverlay"] {
+          display: none;
+        }
+      </style>
+    </div>
+  </div>
+</div>
+
